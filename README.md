@@ -27,7 +27,6 @@ HyunCafe
 
 * :octocat: Hobbies: Sleeping, Anime, Gaming, Discord, and Cosplaying.
 
-<h2></h2><br>
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>Actively Learning <strong/></h2>
     <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
