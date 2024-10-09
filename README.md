@@ -11,7 +11,7 @@ HyunCafe
 </p> <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Ahripyx/your-repo/main/assets/kyubey.gif" width="30" alt="kyubey gif" style="vertical-align: middle; margin-right: 10px;"/>
+    <img src="assets/kyubey.gif" width="30" alt="kyubey gif" style="vertical-align: middle; margin-right: 10px;"/>
     <h2 style="display: inline; margin: 0;">About Me</h2>
 </div>
 
