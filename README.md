@@ -11,6 +11,17 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
+* 🌳 I’m currently learning MVCs, ASP.NET<br> 
+Actively Going through:
+  - Computer Programming & Analysis <br>
+
+* 🐾 I'm currently building my portfolio and repos here <br><br>
+
+* 🌊 At the moment my repos are private for now until projects are finished with <br><br>
+
+* ☕ Interest: Coding, Photography, Cats, and Fashion <br><br>
+
+* :octocat: Hobbies: Sleeping, Anime, Gaming, Discord, and Cosplaying. <br><br>
 
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>Actively Learning <strong/></h2>
