@@ -11,20 +11,19 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
-* 🌳 I'm currently building my portfolio and repos here.  
-  Actively going through:  
-  - Design Patterns (MVC)  
-  - RAD Client Server (ASP.NET Web Forms)  
-  - Operating Systems (Linux)  
-  - Project Planning & Design (Collaborating with Others)  
+* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
+Actively Going through:
+  - 100 Devs with Leon
+  - The Odin Project: Fundamentals + Full Stack JavaScript
+  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
 
-* 🐾 I'm actively working on my portfolio and repos here.  
+* 🐾 I’m looking to network and make friends here! <br><br>
 
-* 🌊 At the moment, my repos are private until projects are finished.  
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
 
-* ☕ Interests: Coding, Photography, Cats, and Fashion.  
+* ☕ Interest: Cats, Coffee, and Coding. <br><br>
 
-* :octocat: Hobbies: Sleeping, Anime, Gaming, Discord, and Cosplaying.
+* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>Actively Learning <strong/></h2>
     <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
