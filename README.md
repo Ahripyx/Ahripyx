@@ -9,3 +9,10 @@ HyunCafe
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
+
+<div>
+    <h2>Actively Learning</h2>
+    <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
+    <h2>Plan to Learn</h2>
+    <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
+</div>
