@@ -11,6 +11,7 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
+    
 * 🌳 I'm currently building my portfolio and repos here.  
   Actively going through:  
   - Design Patterns (MVC)  
@@ -18,7 +19,7 @@ HyunCafe
   - Operating Systems (Linux)  
   - Project Planning & Design (Collaborating with Others)  
 
-* 🐾 I'm looking to network and make friends here.  
+* 🐾 I'm actively working on my portfolio and repos here  
 
 * 🌊 At the moment, my repos are private until projects are finished.  
 
