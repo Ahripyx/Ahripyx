@@ -11,7 +11,7 @@ HyunCafe
 </p> <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/kyubey.gif" width="30" alt="kyubey gif"/>
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/kyubey.gif" width="100" alt="kyubey gif"/>
     <h2>About Me</h2>
 </div>
 
