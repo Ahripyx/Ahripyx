@@ -11,8 +11,12 @@ HyunCafe
 </p> <br>
 
 <div align="center">
-    <img src="assets/kyubey.gif" width="100" alt="kyubey gif"/>
-    <h2>About Me</h2>
+    <span style="display: inline-block; vertical-align: middle;">
+        <img src="assets/kyubey.gif" width="100" alt="kyubey gif"/>
+    </span>
+    <span style="display: inline-block; vertical-align: middle;">
+        <h2 style="display: inline;">About Me</h2>
+    </span>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img/>
