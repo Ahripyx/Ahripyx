@@ -10,7 +10,10 @@ HyunCafe
     <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<h2 align="center"><img src="assets/kyubey.gif" width="100"/> About Me</h2>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/kyubey.gif" width="30" alt="kyubey gif"/>
+    <h2>About Me</h2>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img/>
 
