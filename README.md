@@ -11,21 +11,20 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
-* 🌳 I'm currently building my portfolio and repos here <br>
-    Actively Going through:
-        -Design Patterns (MVC)
-        -RAD Client Server (ASP.NET Web Forms)
-        -Operating Systems (Linux)
-        -Project Planning & Design (Collabrating with Others)<br>
-    
-* 🐾 I'm currently building my portfolio and repos here <br><br>
+* 🌳 I'm currently building my portfolio and repos here  
+  Actively going through:  
+  - Design Patterns (MVC)  
+  - RAD Client Server (ASP.NET Web Forms)  
+  - Operating Systems (Linux)  
+  - Project Planning & Design (Collaborating with Others)  
 
-* 🌊 At the moment my repos are private for now until projects are finished with <br><br>
+* 🐾 I'm actively working on my portfolio and repos here.  
 
-* ☕ Interest: Coding, Photography, Cats, and Fashion <br><br>
+* 🌊 At the moment, my repos are private until projects are finished.  
 
-* :octocat: Hobbies: Sleeping, Anime, Gaming, Discord, and Cosplaying. <br><br>
+* ☕ Interests: Coding, Photography, Cats, and Fashion.  
 
+* :octocat: Hobbies: Sleeping, Anime, Gaming, Discord, and Cosplaying.
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>Actively Learning <strong/></h2>
     <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
