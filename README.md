@@ -11,7 +11,7 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
-* 🌳 I'm currently building my portfolio and repos here  
+* 🌳 I'm currently building my portfolio and repos here.  
   Actively going through:  
   - Design Patterns (MVC)  
   - RAD Client Server (ASP.NET Web Forms)  
