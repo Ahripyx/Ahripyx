@@ -13,8 +13,8 @@ HyunCafe
 <div/>
 * 🌳 I’m currently learning MVCs, ASP.NET<br> 
 Actively Going through:
-  - Computer Programming & Analysis <br>
-
+  - Computer Programming & Analysis <br><br>
+    
 * 🐾 I'm currently building my portfolio and repos here <br><br>
 
 * 🌊 At the moment my repos are private for now until projects are finished with <br><br>
