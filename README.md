@@ -11,9 +11,9 @@ HyunCafe
 <div>
     <h2><img src="assets/kyubey.gif" width="100"/> <strong>About Me</strong> </h2>
 <div/>
-* 🌳 I’m currently learning MVCs, ASP.NET<br> 
-Actively Going through:
-  - Computer Programming & Analysis <br><br>
+* 🌳 I'm currently building my portfolio and repos here <br>
+    Actively Going through:
+        -Computer Programming & Analysis<br><br>
     
 * 🐾 I'm currently building my portfolio and repos here <br><br>
 
