@@ -12,7 +12,7 @@ HyunCafe
 
 <div align="center">
     <h2>Actively Learning</h2>
-    <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,sql,c#" alt="skills actively learning logos"> <br> 
+    <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
     <h2>Plan to Learn</h2>
     <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
 </div>
