@@ -11,13 +11,13 @@ HyunCafe
 </p> <br>
 
 <div align="center">
-    <h2>About Me</h2>
-    <img src="assets/kyubey.gif" alt="kyubey running gif"> <br>
+    <img src="assets/kyubey.gif" alt="kyubey running gif"><h2>About Me</h2> <img/><br>
+    
 <div/>
 
 <div align="center">
-    <h2>Actively Learning</h2>
+    <img src="assets/kyubey.gif" alt="kyubey running gif"><h2>Actively Learning</h2> <img/><br>
     <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
-    <h2>Plan to Learn</h2>
+    <img src="assets/kyubey.gif" alt="kyubey running gif"><h2>Plan to Learn</h2> <img/><br>
     <img src="https://skillicons.dev/icons?i=lua,cpp" alt="skills planning to learn logos">
 </div>
