@@ -10,6 +10,8 @@ HyunCafe
     <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img/>
+
 <div align="center">
     <h2>Actively Learning</h2>
     <img src="https://skillicons.dev/icons?i=git,linux,html,css,js,python,mysql,c#" alt="skills actively learning logos"> <br> 
