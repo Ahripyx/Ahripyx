@@ -13,7 +13,10 @@ HyunCafe
 <div/>
 * 🌳 I'm currently building my portfolio and repos here <br>
     Actively Going through:
-        -Computer Programming & Analysis<br><br>
+        -Design Patterns (MVC)
+        -RAD Client Server (ASP.NET Web Forms)
+        -Operating Systems (Linux)
+        -Project Planning & Design (Collabrating with Others)<br>
     
 * 🐾 I'm currently building my portfolio and repos here <br><br>
 
