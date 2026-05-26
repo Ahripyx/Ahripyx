@@ -30,9 +30,9 @@ Ahripyx
 Username: Ahripyx
 WhoamI: Advanced Computer Programming & Analysis Graduate
 Pronouns: She/Her
-OS: Windows
-Hobbies: Streaming, Coding, Gaming, Cosplaying,Reading  
-Games: FFXIV, BG3, Marathon are my main games but I play a variety
+OS: Windows / Linux
+Hobbies: Streaming, Coding, Gaming, Cosplaying, Reading
+Games: FFXIV, BG3, and Marathon are my main games but I play a variety
 of games!
 If anyone wants to take some fun projects together feel free to
 contact me via discord!
