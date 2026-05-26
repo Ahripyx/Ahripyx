@@ -66,9 +66,10 @@ Languages: Python, C#, SQL, HTML
 <br>
 
 <h3 align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼</h3>
+<img src="assets/borderseperator.gif">
 
 <div align="center">
-    <img src="assets/kaguyacuddle.jpg" align="left" width="50%" height="100%"/>
+    <img src="assets/kaguyacuddle.jpg" align="left" width="20%" height="100%"/>
 </div>
 <div>
     <br>
@@ -77,7 +78,7 @@ Languages: Python, C#, SQL, HTML
         <a href="https://www.youtube.com/@Ahripyx"><img src="https://img.shields.io/badge/youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube"/></a>
         <a href="https://discord.gg/phE46GUJad"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord"/></a>
         <a href="https://www.instagram.com/ahripyx"><img src="https://img.shields.io/badge/instagram%20-%23323330.svg?&style=for-the-badge&logo=instagram"/></a>
-        <a href="https://www.tiktok.com/@ahripyx"><img src="https://img.shields.io/badge/tiktok%20-%23323330.svg?&style=for-the-badge&logo=tiktok"/></a>
+        <a href="https://www.tiktok.com/@ahripyx"><img src="https://img.shields.io/badge/tiktok%20-%23323330.svg?&style=for-the-badge&logo=tiktok"/></a><br>
         𝓐𝓷𝔂 𝓼𝓾𝓹𝓹𝓸𝓻𝓽 𝓲𝓼 𝓶𝓾𝓬𝓱 𝓪𝓹𝓹𝓻𝓮𝓬𝓲𝓪𝓽𝓮𝓭! :3
     </p>
 </div>
