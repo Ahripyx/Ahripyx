@@ -64,4 +64,18 @@ Languages: Python, C#, SQL, HTML
     </p>
 </div>
 
+<h3 align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼</h3>
+<img src="assets/borderseperator.gif">
+
+<div>
+    <br>
+    <p align="center">
+        <a href="https://www.twitch.tv/ahripyx"><img src="https://img.shields.io/badge/twitch%20-%23323330.svg?&style=for-the-badge&logo=twitch"/></a>
+        <a href="https://www.youtube.com/@Ahripyx"><img src="https://img.shields.io/badge/youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube"/></a>
+        <a href="https://discord.gg/phE46GUJad"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord"/></a>
+        <a href="https://www.instagram.com/ahripyx"><img src="https://img.shields.io/badge/instagram%20-%23323330.svg?&style=for-the-badge&logo=instagram"/></a>
+        <a href="https://www.tiktok.com/@ahripyx"><img src="https://img.shields.io/badge/tiktok%20-%23323330.svg?&style=for-the-badge&logo=tiktok"/></a>
+    </p>
+</div>
+
 
