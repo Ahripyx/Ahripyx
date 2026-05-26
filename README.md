@@ -1,4 +1,4 @@
-<!-- Welcome to my readme!
+6<!-- Welcome to my readme!
 
 This readme was inspired by multiple profiles!
 
@@ -21,7 +21,7 @@ Ahripyx
 </p> <br>
 <br>
 
-<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="35%" height="100%">
+<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="36%" height="100%">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
