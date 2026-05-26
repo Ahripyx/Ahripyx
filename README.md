@@ -69,7 +69,7 @@ Languages: Python, C#, SQL, HTML
 <img src="assets/borderseperator.gif">
 
 <div align="center">
-    <img src="assets/kaguyacuddle.jpg" align="left" width="20%" height="100%"/>
+    <img src="assets/kaguyacuddle.jpg" align="left" width="10%" height="100%"/>
 </div>
 <div>
     <br>
