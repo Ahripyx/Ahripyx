@@ -41,9 +41,11 @@ Languages: Python, C#, SQL, HTML
 -------------------------------------------------------------
 ```
 <div id="toc" align="center">
-    <summary style="list-style: none">
-      <h2> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
+  <ul style="list-style: none; margin: 0; padding: 0;">
+    <summary style="margin:0; padding: 0;">
+      <h2 style="margin:0; padding: 0;"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
     </summary>
+  </ul>
 </div>
 <img src="assets/borderseperator.gif">
 
