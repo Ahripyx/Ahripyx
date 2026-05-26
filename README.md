@@ -69,7 +69,6 @@ Languages: Python, C#, SQL, HTML
 <img src="assets/borderseperator.gif">
 
 <div>
-    <br>
     <p align="center">
         <a href="https://www.twitch.tv/ahripyx"><img src="https://img.shields.io/badge/twitch%20-%23323330.svg?&style=for-the-badge&logo=twitch"/></a>
         <a href="https://www.youtube.com/@Ahripyx"><img src="https://img.shields.io/badge/youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube"/></a>
