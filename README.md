@@ -52,6 +52,10 @@ Languages: Python, C#, SQL, HTML
     <br>
     <p align="center">
         <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+        <img src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=c"/>
+        <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5"/>
+        <img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css"/>
+        <img src="https://img.shields.io/badge/gdscript%20-%23323330.svg?&style=for-the-badge&logo=godot-engine"/>
         <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
         <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
         <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
