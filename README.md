@@ -22,7 +22,7 @@ Ahripyx
   <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=ffd3d9&style=for-the-badge"/>
 </p> <br>
 
-<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="36%" height="100%"/>
+<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="38%" height="100%"/>
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
