@@ -40,12 +40,15 @@ Languages: Python, C#, SQL, HTML
 -------------------------------------------------------------
 ```
 
-<br>
-<h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮</h2>
+
+<h2 style="border-bottom: none;" align="center">
+𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮
+</h2>
+
 <img src="assets/borderseperator.gif">
 
 <div align="center">
-    <img src="assets/iroha.jpg" align="right" width="30%" height="100%"/>
+    <img src="assets/irohaanim.gif" align="right" width="30%" height="100%"/>
 </div>
 
 <div>
