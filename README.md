@@ -41,7 +41,7 @@ Languages: Python, C#, SQL, HTML
 -------------------------------------------------------------
 ```
 <div id="toc" align="center">
-    <summary>
+    <summary style="list-style: none">
       <h2> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
     </summary>
 </div>
