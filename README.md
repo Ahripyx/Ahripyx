@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com/demo/?font=Operator&size=50&duration=2800&pause=2000&color=D14EFF&center=true&vCenter=true&width=940&lines=Ahripyx" align="middle" alt="Ahripyx"
 
 <!--
 **Ahripyx/Ahripyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
