@@ -34,7 +34,8 @@ OS: Windows
 Hobbies: Streaming, Coding, Gaming, Cosplaying,Reading  
 Games: FFXIV, BG3, Marathon are my main games but I play a variety
 of games!
-Languages: Python, C#, SQL, HTML
+If anyone wants to take some fun projects together feel free to
+contact me via discord!
 
 ╰──────── Feel free to check out my Twitch! ───────────╯
 
