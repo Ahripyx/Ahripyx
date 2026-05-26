@@ -63,10 +63,13 @@ Languages: Python, C#, SQL, HTML
         𝓪𝓭𝓪𝓹𝓽 𝓷𝓸 𝓶𝓪𝓽𝓽𝓮𝓻 𝔀𝓱𝓪𝓽 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮. 𝓘 𝓹𝓵𝓪𝓷 𝓸𝓷 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓶𝓸𝓻𝓮 𝓪𝓼 𝓘 𝓽𝓪𝓴𝓮 𝓸𝓷 𝓶𝓸𝓻𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼! :3
     </p>
 </div>
+<br>
 
 <h3 align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼</h3>
-<img src="assets/borderseperator.gif">
 
+<div align="center">
+    <img src="assets/kaguyacuddle.jpg" align="left" width="50%" height="100%"/>
+</div>
 <div>
     <br>
     <p align="center">
@@ -75,6 +78,7 @@ Languages: Python, C#, SQL, HTML
         <a href="https://discord.gg/phE46GUJad"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord"/></a>
         <a href="https://www.instagram.com/ahripyx"><img src="https://img.shields.io/badge/instagram%20-%23323330.svg?&style=for-the-badge&logo=instagram"/></a>
         <a href="https://www.tiktok.com/@ahripyx"><img src="https://img.shields.io/badge/tiktok%20-%23323330.svg?&style=for-the-badge&logo=tiktok"/></a>
+        𝓐𝓷𝔂 𝓼𝓾𝓹𝓹𝓸𝓻𝓽 𝓲𝓼 𝓶𝓾𝓬𝓱 𝓪𝓹𝓹𝓻𝓮𝓬𝓲𝓪𝓽𝓮𝓭! :3
     </p>
 </div>
 
