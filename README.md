@@ -69,9 +69,9 @@ Languages: Python, C#, SQL, HTML
 <img src="assets/borderseperator.gif">
 
 <div align="center">
-    <img src="assets/kaguyacuddle.jpg" align="left" width="10%" height="100%"/>
+    <img src="assets/kaguyacuddle.jpg" align="left" width="20%" height="100%"/>
 </div>
-<div>
+<div align="left">
     <br>
     <p align="center">
         <a href="https://www.twitch.tv/ahripyx"><img src="https://img.shields.io/badge/twitch%20-%23323330.svg?&style=for-the-badge&logo=twitch"/></a>
