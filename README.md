@@ -48,7 +48,7 @@ Languages: Python, C#, SQL, HTML
 <img src="assets/borderseperator.gif">
 
 <div align="center">
-    <img src="assets/irohaanim.gif" align="right" width="100%" height="100%"/>
+    <img src="assets/irohaanim.gif" align="right" width="60%" height="100%"/>
 </div>
 
 <div>
