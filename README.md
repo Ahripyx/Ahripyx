@@ -41,7 +41,7 @@ Languages: Python, C#, SQL, HTML
 -------------------------------------------------------------
 ```
 
-<p style="font-size: 60px;" align="center"><strong>𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</strong></p>
+<h3 align="center"><strong>𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</strong></h3>
 <img src="assets/borderseperator.gif">
 
 <div align="center">
