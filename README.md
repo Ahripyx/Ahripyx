@@ -1,4 +1,4 @@
-6<!-- Welcome to my readme!
+<!-- Welcome to my readme!
 
 This readme was inspired by multiple profiles!
 
@@ -19,7 +19,6 @@ Ahripyx
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=ffd3d9&style=for-the-badge">
 </p> <br>
-<br>
 
 <img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="36%" height="100%">
 
