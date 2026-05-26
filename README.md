@@ -4,6 +4,7 @@ This readme was inspired by multiple profiles!
 
 !!Inspiration!!
 HyunCafe
+pipi-bear
 
 !!Authors!!
 Ahripyx
@@ -19,5 +20,24 @@ Ahripyx
   <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=ffd3d9&style=for-the-badge">
 </p> <br>
 <br>
+
+<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="16.8%" height="500%">
+
+```csharp
+----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
+
+Username: Ahripyx
+WhoamI: Advanced Computer Programming & Analysis Graduate
+Pronouns: She/Her
+OS: Windows
+Hobbies: Streaming, Coding, Gaming, Cosplaying,Reading  
+Games: FFXIV, BG3, Marathon are my main games but I play a variety
+of games!
+Languages: Python, C#, SQL, HTML
+
+╰──────── Feel free to check out my Twitch! ───────────╯
+
+-------------------------------------------------------------
+```
 
 
