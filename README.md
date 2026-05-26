@@ -40,8 +40,13 @@ Languages: Python, C#, SQL, HTML
 
 -------------------------------------------------------------
 ```
-
-<h3 align="center"><strong>𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</strong></h3>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
+    </summary>
+  </ul>
+</div>
 <img src="assets/borderseperator.gif">
 
 <div align="center">
