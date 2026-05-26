@@ -40,7 +40,7 @@ Languages: Python, C#, SQL, HTML
 
 -------------------------------------------------------------
 ```
-<h3 style="font-size: 100px">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h3>
+<h3 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h3>
 <img src="assets/borderseperator.gif">
 
 <div align="center">
