@@ -68,7 +68,6 @@ Languages: Python, C#, SQL, HTML
 <h3 align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼</h3>
 <img src="assets/borderseperator.gif">
 
-<img src="assets/kaguyacuddle.jpg" align="left" width="20%" height="100%"/>
 <div>
     <br>
     <p align="center">
