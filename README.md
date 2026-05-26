@@ -21,7 +21,7 @@ Ahripyx
 </p> <br>
 <br>
 
-<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="35%" height="400%">
+<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="35%" height="100%">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
