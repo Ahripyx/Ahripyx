@@ -5,6 +5,7 @@ This readme was inspired by multiple profiles!
 !!Inspiration!!
 HyunCafe
 pipi-bear
+NeiKa0s496
 
 !!Authors!!
 Ahripyx
@@ -14,13 +15,13 @@ Ahripyx
 <!-- Profile Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hai%2C+I'm+Ahripyx+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
 
-<img src="assets/borderseperator.gif">
+<img src="assets/borderseperator.gif"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=ffd3d9&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Ahripyx&color=ffd3d9&style=for-the-badge"/>
 </p> <br>
 
-<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="36%" height="100%">
+<img src="assets/kaguya.jpg" alt="image of kaguya" align="left" width="36%" height="100%"/>
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
@@ -38,5 +39,24 @@ Languages: Python, C#, SQL, HTML
 
 -------------------------------------------------------------
 ```
+
+<br>
+<h2 align="center">𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮</h2>
+<img src="assets/borderseperator.gif">
+
+<div align="center">
+    <img src="assets/iroha.jpg" align="right" width="30%" height="100%"/>
+</div>
+
+<div>
+    <br>
+    <p align="center">
+        <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+        <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+        <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
+        <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
+        <img src="https://img.shields.io/badge/ubuntu%20-%23323330.svg?&style=for-the-badge&logo=ubuntu"/>
+    </p>
+</div>
 
 
